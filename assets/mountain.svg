@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xmlns:bx="https://boxy-svg.com">
+  <g>
+    <path fill="#FFFFFF" d="M37.468,17.123C37.468,29.596,25,45.346,25,45.346s-12.468-14.93-12.468-28.223 c0-6.885,5.581-12.468,12.468-12.468C31.885,4.655,37.468,10.237,37.468,17.123z"/>
+  </g>
+  <g>
+    <path d="M 21.048 11.697 L 26.867 26.244 L 15.229 26.244 L 21.048 11.697 Z" bx:shape="triangle 15.229 11.697 11.638 14.547 0.5 0 1@885a0ca8" style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);"/>
+    <path d="M 27.665 16.577 L 34.376 26.244 L 20.955 26.244 L 27.665 16.577 Z" bx:shape="triangle 20.955 16.577 13.421 9.667 0.5 0 1@206d5e87" style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);"/>
+  </g>
+</svg>
